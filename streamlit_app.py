@@ -8,7 +8,7 @@ st.write("Загрузи изображение самолёта, корабля
 
 uploaded_file = st.file_uploader("Выбери изображение", type=["jpg", "jpeg", "png"])
 
-api_url = "http://127.0.0.1:8000/predict"
+api_url = "https://streamlit-test-project.onrender.com/predict"
 
 if uploaded_file is not None:
     st.image(uploaded_file, caption="Загруженное изображение", use_container_width=True)
