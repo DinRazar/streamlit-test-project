@@ -41,6 +41,7 @@ POST `/predict`
 ```
 
 ## Ссылки
-- GitHub: сюда вставишь позже
-- API: сюда вставишь позже
-- Streamlit: сюда вставишь позже
+- GitHub: https://github.com/DinRazar/streamlit-test-project.git
+- API: https://streamlit-test-project.onrender.com/
+- API для тестов: https://streamlit-test-project.onrender.com/docs
+- Streamlit: https://app-test-project-mzseksr3lcgjeyj5la4rel.streamlit.app/
